@@ -9,7 +9,7 @@ dirs = os.listdir("images")
 dirs.remove(".DS_Store")
 
 
-out +='    <div class="row">\n'
+out +='    <div class="row no-gutters">\n'
 for d in reversed(sorted(dirs)):
     pics = os.listdir("images/{0}".format(d))
 
@@ -23,7 +23,8 @@ for d in reversed(sorted(dirs)):
         if pic_index == 0:
             out +='            <a class="lightbox" href="{}">\n'.format(name)
         else:
-            out +='            <a class="lightbox" href="{}" style="display: none;">\n'.format(name)
+            #out +='            <a class="lightbox" href="{}" style="display: none;">\n'.format(name)
+            out +='            <a class="lightbox" href="{}">\n'.format(name)
 
         out +='            <img src="{}" alt="">\n'.format(name)
         out +='            </a>\n'
