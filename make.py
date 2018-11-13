@@ -15,13 +15,15 @@ for d in reversed(sorted(dirs)):
 
     pic_index = 0
     out +='        <div class="col-sm-4 col-md-3">\n'
+    desc = d[9:].replace("_", " ")
+    #out +='<h7>{}</h7>'.format(desc)
     for p in sorted(pics):
         if p == ".DS_Store":
             continue
         name = 'images/{}/{}'.format(d, p)
 
         if pic_index == 0:
-            out +='            <a class="lightbox" href="{0}"><img src="{0}" alt=""></a>\n'.format(name)
+            out +='            <a class="lightbox" href="{0}"><img src="{0}" title="{1}"></a>\n'.format(name, desc)
         else:
             out +='            <a class="lightbox" href="{}" style="display: none;"></a>\n'.format(name)
         pic_index += 1

@@ -46,8 +46,8 @@ body {
 
 
 .tz-gallery .lightbox img:hover {
-    transform: scale(1.03);
-    box-shadow: 0 8px 15px rgba(0,0,0,0.3);
+    transform: scale(1.06);
+    box-shadow: 0 8px 15px rgba(0,0,0,0.7);
 }
 
 .tz-gallery img {
