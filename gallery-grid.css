@@ -1,7 +1,7 @@
 body {
     background-image: linear-gradient(to top, #ecedee 0%, #eceeef 75%, #e7e8e9 100%);
     min-height: 100vh;
-    font: normal 16px sans-serif;
+    font: normal 16px serif;
     padding: 60px 0;
 }
 
@@ -9,14 +9,14 @@ body {
     background-color: #fff;
     color: #35373a;
     min-height: 100vh;
-    border-radius: 20px;
+    border-radius: 0px;
     box-shadow: 0 8px 15px rgba(0, 0, 0, 0.06);
 }
 
 .gallery-container h1 {
     text-align: center;
     margin-top: 70px;
-    font-family: 'Droid Sans', serif;
+    font-family: 'Droid Serif', serif;
     font-weight: bold;
 }
 
@@ -35,6 +35,8 @@ body {
 .tz-gallery .lightbox img {
     width: 17vw;
     height: 17vw;
+    max-width: 250px;
+    max-height: 250px;
     overflow: hidden;
     object-fit: cover;
     margin-bottom: 15px;
@@ -49,7 +51,7 @@ body {
 }
 
 .tz-gallery img {
-    border-radius: 4px;
+    border-radius: 0px;
 }
 
 .baguetteBox-button {
@@ -75,4 +77,12 @@ body {
 .row.no-gutters > [class*=" col-"] {
   padding-right: 0;
   padding-left: 0;
+}
+
+.map_center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60vw;
+    max-width: 1000px
 }
