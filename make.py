@@ -14,7 +14,7 @@ for d in reversed(sorted(dirs)):
     pics = os.listdir("images/{0}".format(d))
 
     pic_index = 0
-    out +='        <div class="col-md-3">\n'
+    out +='        <div class="col-sm-4 col-md-3">\n'
     for p in sorted(pics):
         if p == ".DS_Store":
             continue
