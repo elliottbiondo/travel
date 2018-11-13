@@ -14,22 +14,19 @@ for d in reversed(sorted(dirs)):
     pics = os.listdir("images/{0}".format(d))
 
     pic_index = 0
+    out +='        <div class="col-md-3">\n'
     for p in sorted(pics):
         if p == ".DS_Store":
             continue
         name = 'images/{}/{}'.format(d, p)
-        out +='        <div class="col-md-3">\n'
 
         if pic_index == 0:
-            out +='            <a class="lightbox" href="{}">\n'.format(name)
+            out +='            <a class="lightbox" href="{0}"><img src="{0}" alt=""></a>\n'.format(name)
         else:
-            #out +='            <a class="lightbox" href="{}" style="display: none;">\n'.format(name)
-            out +='            <a class="lightbox" href="{}">\n'.format(name)
-
-        out +='            <img src="{}" alt="">\n'.format(name)
-        out +='            </a>\n'
-        out +='        </div>\n'
+            out +='            <a class="lightbox" href="{}" style="display: none;"></a>\n'.format(name)
         pic_index += 1
+
+    out +='        </div>\n'
 
 out +="    </div>\n"
 
