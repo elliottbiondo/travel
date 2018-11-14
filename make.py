@@ -14,7 +14,7 @@ for d in reversed(sorted(dirs)):
     pics = os.listdir("images/{0}".format(d))
 
     pic_index = 0
-    out +='        <div class="col-sm-4 col-md-3">\n'
+    out +='        <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">\n'
     desc = d[9:].replace("_", " ")
     #out +='<h7>{}</h7>'.format(desc)
     for p in sorted(pics):
