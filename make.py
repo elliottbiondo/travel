@@ -9,7 +9,6 @@ dirs = os.listdir("images")
 dirs.remove(".DS_Store")
 
 
-out +='    <div class="row no-gutters">\n'
 for d in reversed(sorted(dirs)):
     pics = os.listdir("images/{0}".format(d))
 
@@ -29,8 +28,6 @@ for d in reversed(sorted(dirs)):
         pic_index += 1
 
     out +='        </div>\n'
-
-out +="    </div>\n"
 
 with open("footer.html", 'r') as f:
     for line in f.readlines():

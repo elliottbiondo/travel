@@ -2,7 +2,7 @@ body
     background-image: linear-gradient(to top, #ecedee 0%, #eceeef 75%, #e7e8e9 100%);
     min-height: 100vh;
     font: normal 16px serif;
-    padding: 60px 0;
+    padding: 100px 0;
 }
 
 .container.gallery-container {
@@ -10,20 +10,20 @@ body
     color: #35373a;
     min-height: 100vh;
     border-radius: 0px;
-    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.06);
+    box-shadow: 0 8px 10px rgba(0, 0, 0, 0.06);
 }
 
 .gallery-container h1 {
     text-align: center;
     margin-top: 70px;
     font-family: 'Droid Serif', serif;
-    font-weight: bold;
+    font-weight: normal;
 }
 
 .tz-gallery {
     padding: 0px;
     width: 90vw;
-    max-width: 765px;
+    max-width: 750px;
     margin-left: auto;
     margin-right: auto;
 }
@@ -35,7 +35,7 @@ body
     max-height: 250px;
     overflow: hidden;
     object-fit: cover;
-    margin-bottom: 15px;
+    margin-bottom: 10px;
     transition: 0.2s ease-in-out;
     box-shadow: 0 2px 3px rgba(0,0,0,0.2);
 }
@@ -43,7 +43,7 @@ body
 
 .tz-gallery .lightbox img:hover {
     transform: scale(1.06);
-    box-shadow: 0 8px 15px rgba(0,0,0,0.7);
+    box-shadow: 0 8px 10px rgba(0,0,0,0.7);
 }
 
 .tz-gallery img {
@@ -55,7 +55,7 @@ body
 }
 
 
-@media(max-width: 768px) {
+@media(max-width: 750px) {
     body {
         padding: 0;
     }
@@ -71,14 +71,14 @@ body
 }
 .row.no-gutters > [class^="col-"],
 .row.no-gutters > [class*=" col-"] {
-  padding-right: 1;
-  padding-left: 1;
+  padding-right: 0;
+  padding-left: 0;
 }
 
 .map_center {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 90vw;
-    max-width: 765px
+    width: 100vw;
+    max-width: 750px
 }
