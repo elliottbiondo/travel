@@ -13,7 +13,8 @@ with open("places.json") as f:
         elif "Longitude" in line:
             lon.append(float(line.split()[2].replace('"', '').replace(',', '')))
 
-lat_min = 23
+#lat_min = 23
+lat_min = 0
 lat_max = 60
 lon_min = -150
 lon_max = 150
