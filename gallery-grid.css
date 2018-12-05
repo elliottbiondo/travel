@@ -1,8 +1,9 @@
 body 
     background-image: linear-gradient(to top, #ecedee 0%, #eceeef 75%, #e7e8e9 100%);
     min-height: 100vh;
-    font: normal 16px serif;
     padding: 100px 0;
+    font-family: 'Alegreya Sans SC', sans-serif;
+    font-size: 48px;
 }
 
 .container.gallery-container {
@@ -16,8 +17,9 @@ body
 .gallery-container h1 {
     text-align: center;
     margin-top: 70px;
-    font-family: 'Droid Serif', serif;
-    font-weight: normal;
+    font-family: 'Alegreya Sans SC', sans-serif;
+    font-size: 4vw;
+    color: grey;
 }
 
 .tz-gallery {
