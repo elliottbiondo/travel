@@ -2,6 +2,654 @@
   "type" : "FeatureCollection",
   "features" : [ {
     "geometry" : {
+      "coordinates" : [ -90.537174, 45.272037 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=45.272037,-90.53717400000001",
+      "Location" : {
+        "Latitude" : "45.272037",
+        "Longitude" : "-90.537174"
+      },
+      "Published" : "2018-12-04T16:16:22Z",
+      "Title" : "45.272037,-90.53717400000001",
+      "Updated" : "2018-12-04T16:16:22Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -90.638020, 45.164940 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=45.16494,-90.63802",
+      "Location" : {
+        "Latitude" : "45.164940",
+        "Longitude" : "-90.638020"
+      },
+      "Published" : "2018-12-04T16:04:40Z",
+      "Title" : "45.16494,-90.63802",
+      "Updated" : "2018-12-04T16:04:40Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -71.4628590, 42.9932767 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=5460249949122392619",
+      "Location" : {
+        "Address" : "1069 Elm Street, Manchester, NH 03101, United States",
+        "Business Name" : "Republic",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "42.9932767",
+          "Longitude" : "-71.4628590"
+        }
+      },
+      "Published" : "2018-12-04T15:58:14Z",
+      "Title" : "Republic",
+      "Updated" : "2018-12-04T15:58:14Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -84.029056, 35.927406 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=301+Cheshire+Dr,+Knoxville,+TN+37919&ftid=0x885c24bb1db81853:0xeb93196d4c0abe07",
+      "Location" : {
+        "Latitude" : "35.927406",
+        "Longitude" : "-84.029056"
+      },
+      "Published" : "2018-12-04T01:12:12Z",
+      "Title" : "301 Cheshire Dr, Knoxville, TN 37919",
+      "Updated" : "2018-12-04T01:12:12Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -71.303272, 44.270585 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Mt+Washington,+Sargent's+Purchase,+NH+03846&ftid=0x4cb38e798f42c3d9:0xc3b88e4dac01db12",
+      "Location" : {
+        "Latitude" : "44.270585",
+        "Longitude" : "-71.303272"
+      },
+      "Published" : "2018-12-02T22:58:18Z",
+      "Title" : "Mt Washington, Sargent's Purchase, NH 03846",
+      "Updated" : "2018-12-02T22:58:18Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -71.2529934, 44.2570968 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=7877620854601926432",
+      "Location" : {
+        "Address" : "361 New Hampshire 16, Gorham, NH 03581, United States",
+        "Business Name" : "AMC Pinkham Notch Visitor Center",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "44.2570968",
+          "Longitude" : "-71.2529934"
+        }
+      },
+      "Published" : "2018-12-02T22:58:07Z",
+      "Title" : "AMC Pinkham Notch Visitor Center",
+      "Updated" : "2018-12-02T22:58:07Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -71.1238661, 44.0459790 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=18123053900012919033",
+      "Location" : {
+        "Address" : "2431 White Mountain Highway, North Conway, NH 03860, United States",
+        "Business Name" : "The Colonial Motel",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "44.0459790",
+          "Longitude" : "-71.1238661"
+        }
+      },
+      "Published" : "2018-12-02T22:57:44Z",
+      "Title" : "The Colonial Motel",
+      "Updated" : "2018-12-02T22:57:44Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -71.1156821, 44.0181069 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=4840275086346173452",
+      "Location" : {
+        "Address" : "1498 White Mountain Highway c30, North Conway, NH 03860, United States",
+        "Business Name" : "Eastern Mountain Sports Schools",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "44.0181069",
+          "Longitude" : "-71.1156821"
+        }
+      },
+      "Published" : "2018-12-02T22:57:37Z",
+      "Title" : "Eastern Mountain Sports Schools",
+      "Updated" : "2018-12-02T22:57:37Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -70.9789670, 43.3054256 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=15285965362370032912",
+      "Location" : {
+        "Address" : "101 North Main Street, Rochester, NH 03867, United States",
+        "Business Name" : "Papaya",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "43.3054256",
+          "Longitude" : "-70.9789670"
+        }
+      },
+      "Published" : "2018-12-02T22:57:21Z",
+      "Title" : "Papaya",
+      "Updated" : "2018-12-02T22:57:21Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -72.5276784, 42.3054936 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=12142648321632549982",
+      "Location" : {
+        "Address" : "1500 West Street, Amherst, MA 01002, United States",
+        "Business Name" : "Mount Holyoke Range State Park",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "42.3054936",
+          "Longitude" : "-72.5276784"
+        }
+      },
+      "Published" : "2018-12-02T22:56:05Z",
+      "Title" : "Mount Holyoke Range State Park",
+      "Updated" : "2018-12-02T22:56:05Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -72.531476, 42.303424 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Bare+Mountain,+South+Hadley,+MA+01075&ftid=0x89e6d019efdd95e5:0x7693935ed3e5ab8b",
+      "Location" : {
+        "Latitude" : "42.303424",
+        "Longitude" : "-72.531476"
+      },
+      "Published" : "2018-12-02T22:55:56Z",
+      "Title" : "Bare Mountain, South Hadley, MA 01075",
+      "Updated" : "2018-12-02T22:55:56Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -72.5364237, 42.3655232 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=415899905821386463",
+      "Location" : {
+        "Address" : "458 Russell Street, Hadley, MA 01035, United States",
+        "Business Name" : "Johnny's Roadside Diner",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "42.3655232",
+          "Longitude" : "-72.5364237"
+        }
+      },
+      "Published" : "2018-12-02T15:32:57Z",
+      "Title" : "Johnny's Roadside Diner",
+      "Updated" : "2018-12-02T15:32:57Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -72.474517, 42.370660 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=41+Harkness+Rd,+Pelham,+MA+01002&ftid=0x89e6cdcb5dc3239d:0x2cf7de9b1eb1ec40",
+      "Location" : {
+        "Latitude" : "42.370660",
+        "Longitude" : "-72.474517"
+      },
+      "Published" : "2018-12-01T22:58:57Z",
+      "Title" : "41 Harkness Rd, Pelham, MA 01002",
+      "Updated" : "2018-12-01T22:58:57Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -76.613596, 39.277048 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=39.277048,-76.613596",
+      "Location" : {
+        "Latitude" : "39.277048",
+        "Longitude" : "-76.613596"
+      },
+      "Published" : "2018-03-03T06:20:14Z",
+      "Title" : "39.277048,-76.613596",
+      "Updated" : "2018-12-01T06:03:18Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -71.4667561, 42.9796712 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=6381820240952981171",
+      "Location" : {
+        "Address" : "555-557 South Commercial Street, Manchester, NH 03101, United States",
+        "Business Name" : "Residences at Riverwalk",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "42.9796712",
+          "Longitude" : "-71.4667561"
+        }
+      },
+      "Published" : "2018-11-30T21:15:34Z",
+      "Title" : "Residences at Riverwalk",
+      "Updated" : "2018-11-30T21:15:34Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -71.4692804, 42.9863218 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=8962216659519275588",
+      "Location" : {
+        "Address" : "50 Commercial Street, Manchester, NH 03101, United States",
+        "Business Name" : "The Foundry",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "42.9863218",
+          "Longitude" : "-71.4692804"
+        }
+      },
+      "Published" : "2018-11-30T21:15:18Z",
+      "Title" : "The Foundry",
+      "Updated" : "2018-11-30T21:15:18Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -71.0872882, 42.3636534 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=1478195378295891097",
+      "Location" : {
+        "Address" : "4 Cambridge Center, Cambridge, MA 02142, United States",
+        "Business Name" : "Meadhall",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "42.3636534",
+          "Longitude" : "-71.0872882"
+        }
+      },
+      "Published" : "2018-11-30T02:47:43Z",
+      "Title" : "Meadhall",
+      "Updated" : "2018-11-30T02:47:43Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -71.0912830, 42.3663610 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=4481462352498853113",
+      "Location" : {
+        "Address" : "1 Kendall Square, Cambridge, MA 02139, United States",
+        "Business Name" : "Cambridge Brewing Company",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "42.3663610",
+          "Longitude" : "-71.0912830"
+        }
+      },
+      "Published" : "2018-11-30T01:17:59Z",
+      "Title" : "Cambridge Brewing Company",
+      "Updated" : "2018-11-30T01:17:59Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -76.6289590, 39.3307659 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=17455613503640966471",
+      "Location" : {
+        "Address" : "3535 Chestnut Avenue, Baltimore, MD 21211, United States",
+        "Business Name" : "Paulie Gee's Hampden",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "39.3307659",
+          "Longitude" : "-76.6289590"
+        }
+      },
+      "Published" : "2018-11-23T23:16:06Z",
+      "Title" : "Paulie Gee's Hampden",
+      "Updated" : "2018-11-23T23:16:06Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -75.7506114, 39.6779504 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=13848285473888854897",
+      "Location" : {
+        "Address" : "Newark, DE 19716, United States",
+        "Business Name" : "University of Delaware",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "39.6779504",
+          "Longitude" : "-75.7506114"
+        }
+      },
+      "Published" : "2018-11-22T19:44:32Z",
+      "Title" : "University of Delaware",
+      "Updated" : "2018-11-22T19:44:32Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -77.2754103, 38.8930655 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=5002893811890000692",
+      "Location" : {
+        "Address" : "2531 Chain Bridge Road, Vienna, VA 22181, United States",
+        "Business Name" : "Sunflower Vegetarian Restaurant",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "38.8930655",
+          "Longitude" : "-77.2754103"
+        }
+      },
+      "Published" : "2018-11-21T18:46:55Z",
+      "Title" : "Sunflower Vegetarian Restaurant",
+      "Updated" : "2018-11-21T18:46:55Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -87.8811457, 42.9789604 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=16516678536802535291",
+      "Location" : {
+        "Address" : "2245 East Street Francis Avenue, Saint Francis, WI 53235, United States",
+        "Business Name" : "Redbar",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "42.9789604",
+          "Longitude" : "-87.8811457"
+        }
+      },
+      "Published" : "2018-11-21T18:39:58Z",
+      "Title" : "Redbar",
+      "Updated" : "2018-11-21T18:39:58Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -87.881805, 42.981146 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=2218+E+Morgan+Ave,+Milwaukee,+WI+53207&ftid=0x88051796327c8183:0x4714c93e86d1671b",
+      "Location" : {
+        "Latitude" : "42.981146",
+        "Longitude" : "-87.881805"
+      },
+      "Published" : "2018-11-21T18:38:22Z",
+      "Title" : "2218 E Morgan Ave, Milwaukee, WI 53207",
+      "Updated" : "2018-11-21T18:38:22Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -87.9228794, 43.0143314 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=12886354726010460004",
+      "Location" : {
+        "Address" : "1579 South 9th Street, Milwaukee, WI 53204, United States",
+        "Business Name" : "Bryant's Cocktail Lounge",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "43.0143314",
+          "Longitude" : "-87.9228794"
+        }
+      },
+      "Published" : "2018-11-21T18:36:30Z",
+      "Title" : "Bryant's Cocktail Lounge",
+      "Updated" : "2018-11-21T18:36:30Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -87.8822568, 43.0789822 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=1989394150983804466",
+      "Location" : {
+        "Address" : "3400 North Maryland Avenue, Milwaukee, WI 53211, United States",
+        "Business Name" : "UWM Sandburg Residence Halls",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "43.0789822",
+          "Longitude" : "-87.8822568"
+        }
+      },
+      "Published" : "2018-11-21T18:28:10Z",
+      "Title" : "UWM Sandburg Residence Halls",
+      "Updated" : "2018-11-21T18:28:10Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -80.173333, 37.361667 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Dragons+Tooth,+Catawba,+VA+24070&ftid=0x884da6639cce0d5f:0x4f9de45a88e4131c",
+      "Location" : {
+        "Latitude" : "37.361667",
+        "Longitude" : "-80.173333"
+      },
+      "Published" : "2018-11-18T17:44:26Z",
+      "Title" : "Dragons Tooth, Catawba, VA 24070",
+      "Updated" : "2018-11-18T17:44:26Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -80.1560910, 37.3787656 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=13885138964418801957",
+      "Location" : {
+        "Address" : "Appalachian Trail, Catawba, VA 24070, United States",
+        "Business Name" : "Dragons Tooth Trail Head",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "37.3787656",
+          "Longitude" : "-80.1560910"
+        }
+      },
+      "Published" : "2018-11-18T17:44:24Z",
+      "Title" : "Dragons Tooth Trail Head",
+      "Updated" : "2018-11-18T17:44:24Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -80.0801556, 37.5210727 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=2519108982139815915",
+      "Location" : {
+        "Address" : "24429 Craigs Creek Road, New Castle, VA 24127, United States",
+        "Business Name" : "Pine Top Restaurant",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "37.5210727",
+          "Longitude" : "-80.0801556"
+        }
+      },
+      "Published" : "2018-11-18T14:38:54Z",
+      "Title" : "Pine Top Restaurant",
+      "Updated" : "2018-11-18T14:38:54Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -80.0896933, 37.3800372 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=9744045046134502484",
+      "Location" : {
+        "Address" : "Catawba Valley Drive, Catawba, VA 24070, United States",
+        "Business Name" : "Mcafee Knob TrailHead",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "37.3800372",
+          "Longitude" : "-80.0896933"
+        }
+      },
+      "Published" : "2018-11-18T00:54:24Z",
+      "Title" : "Mcafee Knob TrailHead",
+      "Updated" : "2018-11-18T00:54:24Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -80.0362654, 37.3924694 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=11742721141345020528",
+      "Location" : {
+        "Address" : "Appalachian Trail, Troutville, VA 24175, United States",
+        "Business Name" : "McAfee Knob",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "37.3924694",
+          "Longitude" : "-80.0362654"
+        }
+      },
+      "Published" : "2018-11-18T00:54:19Z",
+      "Title" : "McAfee Knob",
+      "Updated" : "2018-11-18T00:54:19Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -80.0754886, 37.6050463 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=9455326842561902458",
+      "Location" : {
+        "Address" : "New Castle, VA 24127, United States",
+        "Business Name" : "The Pines Campground",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "37.6050463",
+          "Longitude" : "-80.0754886"
+        }
+      },
+      "Published" : "2018-11-18T00:53:51Z",
+      "Title" : "The Pines Campground",
+      "Updated" : "2018-11-18T00:53:51Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -79.9131021, 37.4337425 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=1944714393510192511",
+      "Location" : {
+        "Address" : "555 International Parkway, Daleville, VA 24083, United States",
+        "Business Name" : "Ballast Point Brewing Virginia",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "37.4337425",
+          "Longitude" : "-79.9131021"
+        }
+      },
+      "Published" : "2018-11-17T23:04:14Z",
+      "Title" : "Ballast Point Brewing Company",
+      "Updated" : "2018-11-17T23:04:14Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -121.2269913, 44.7583337 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=14005885422781881395",
+      "Location" : {
+        "Address" : "U.S. 26, Madras, OR 97741, United States",
+        "Business Name" : "Warm Springs Boat Ramp",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "44.7583337",
+          "Longitude" : "-121.2269913"
+        }
+      },
+      "Published" : "2018-11-07T20:52:26Z",
+      "Title" : "Warm Springs Boat Ramp",
+      "Updated" : "2018-11-07T20:52:26Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
       "coordinates" : [ -121.429383, 44.877732 ],
       "type" : "Point"
     },
@@ -881,7 +1529,7 @@
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -84.1651010, 35.9797850 ],
+      "coordinates" : [ -84.1616141, 35.9789515 ],
       "type" : "Point"
     },
     "properties" : {
@@ -891,8 +1539,8 @@
         "Business Name" : "Historic Cherokee Caverns",
         "Country Code" : "US",
         "Geo Coordinates" : {
-          "Latitude" : "35.9797850",
-          "Longitude" : "-84.1651010"
+          "Latitude" : "35.9789515",
+          "Longitude" : "-84.1616141"
         }
       },
       "Published" : "2018-10-12T22:08:57Z",
@@ -1014,7 +1662,7 @@
       "Google Maps URL" : "http://maps.google.com/?cid=1343057435011433720",
       "Location" : {
         "Address" : "225 2nd Avenue North, Saint Petersburg, FL 33701, United States",
-        "Business Name" : "Pour Taproom",
+        "Business Name" : "Pour Taproom St. Pete",
         "Country Code" : "US",
         "Geo Coordinates" : {
           "Latitude" : "27.7738366",
@@ -1070,7 +1718,7 @@
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -82.5892458, 28.8886545 ],
+      "coordinates" : [ -82.5871859, 28.8911156 ],
       "type" : "Point"
     },
     "properties" : {
@@ -1080,8 +1728,8 @@
         "Business Name" : "Three Sisters Springs",
         "Country Code" : "US",
         "Geo Coordinates" : {
-          "Latitude" : "28.8886545",
-          "Longitude" : "-82.5892458"
+          "Latitude" : "28.8911156",
+          "Longitude" : "-82.5871859"
         }
       },
       "Published" : "2018-10-05T17:45:18Z",
@@ -1665,18 +2313,18 @@
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -113.3037610, 37.1762570 ],
+      "coordinates" : [ -113.3037607, 37.1762471 ],
       "type" : "Point"
     },
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=1111742685999696548",
       "Location" : {
-        "Address" : "845 State Street, Hurricane, UT 84737, United States",
+        "Address" : "845 West State Street, Hurricane, UT 84737, United States",
         "Business Name" : "Costa Vida",
         "Country Code" : "US",
         "Geo Coordinates" : {
-          "Latitude" : "37.1762570",
-          "Longitude" : "-113.3037610"
+          "Latitude" : "37.1762471",
+          "Longitude" : "-113.3037607"
         }
       },
       "Published" : "2018-09-05T02:52:43Z",
@@ -1812,7 +2460,7 @@
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -112.4354315, 37.8241052 ],
+      "coordinates" : [ -112.4354269, 37.8240037 ],
       "type" : "Point"
     },
     "properties" : {
@@ -1822,8 +2470,8 @@
         "Business Name" : "Kenny Rays",
         "Country Code" : "US",
         "Geo Coordinates" : {
-          "Latitude" : "37.8241052",
-          "Longitude" : "-112.4354315"
+          "Latitude" : "37.8240037",
+          "Longitude" : "-112.4354269"
         }
       },
       "Published" : "2018-09-04T17:06:44Z",
@@ -2385,7 +3033,7 @@
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -106.6193124, 35.0807510 ],
+      "coordinates" : [ -106.6194045, 35.0808464 ],
       "type" : "Point"
     },
     "properties" : {
@@ -2395,8 +3043,8 @@
         "Business Name" : "Frontier",
         "Country Code" : "US",
         "Geo Coordinates" : {
-          "Latitude" : "35.0807510",
-          "Longitude" : "-106.6193124"
+          "Latitude" : "35.0808464",
+          "Longitude" : "-106.6194045"
         }
       },
       "Published" : "2018-08-25T20:14:37Z",
@@ -2732,18 +3380,18 @@
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -111.4132503, 36.9031280 ],
+      "coordinates" : [ -111.4110956, 36.9026225 ],
       "type" : "Point"
     },
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=579816711696212557",
       "Location" : {
-        "Address" : "Page, AZ 86040, United States",
-        "Business Name" : "Lower Antelope Canyon",
+        "Address" : "Indian Route 222, Page, AZ 86040, United States",
+        "Business Name" : "Ken's Tours Lower Antelope Canyon",
         "Country Code" : "US",
         "Geo Coordinates" : {
-          "Latitude" : "36.9031280",
-          "Longitude" : "-111.4132503"
+          "Latitude" : "36.9026225",
+          "Longitude" : "-111.4110956"
         }
       },
       "Published" : "2018-08-22T02:38:20Z",
@@ -3095,7 +3743,7 @@
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -73.5345709, 45.5220848 ],
+      "coordinates" : [ -73.5345629, 45.5221374 ],
       "type" : "Point"
     },
     "properties" : {
@@ -3105,8 +3753,8 @@
         "Business Name" : "La Ronde",
         "Country Code" : "CA",
         "Geo Coordinates" : {
-          "Latitude" : "45.5220848",
-          "Longitude" : "-73.5345709"
+          "Latitude" : "45.5221374",
+          "Longitude" : "-73.5345629"
         }
       },
       "Published" : "2018-08-19T15:43:36Z",
@@ -3716,7 +4364,7 @@
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -105.9482145, 35.6839680 ],
+      "coordinates" : [ -105.9481746, 35.6839803 ],
       "type" : "Point"
     },
     "properties" : {
@@ -3726,8 +4374,8 @@
         "Business Name" : "REI",
         "Country Code" : "US",
         "Geo Coordinates" : {
-          "Latitude" : "35.6839680",
-          "Longitude" : "-105.9482145"
+          "Latitude" : "35.6839803",
+          "Longitude" : "-105.9481746"
         }
       },
       "Published" : "2018-08-01T21:57:34Z",
@@ -5831,7 +6479,7 @@
       "Google Maps URL" : "http://maps.google.com/?cid=8724069357063150937",
       "Location" : {
         "Address" : "5410 Joyce Kilmer Road, Robbinsville, NC 28771, United States",
-        "Business Name" : "Joyce Kilmer Memorial Forest",
+        "Business Name" : "Joyce Kilmer Memorial Forest, Cheoah Ranger District, Nantahala National Forest",
         "Country Code" : "US",
         "Geo Coordinates" : {
           "Latitude" : "35.3589519",
@@ -5889,7 +6537,7 @@
       "Google Maps URL" : "http://maps.google.com/?cid=5680837229094929133",
       "Location" : {
         "Address" : "1010 Nicollet Mall, Minneapolis, MN 55403, United States",
-        "Business Name" : "Dakota Jazz Club & Restaurant",
+        "Business Name" : "Dakota",
         "Country Code" : "US",
         "Geo Coordinates" : {
           "Latitude" : "44.9736590",
@@ -6172,22 +6820,6 @@
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -83.981136, 35.934977 ],
-      "type" : "Point"
-    },
-    "properties" : {
-      "Google Maps URL" : "http://maps.google.com/?q=4848+Lyons+View+Pike,+Knoxville,+TN+37919&ftid=0x885c232c42209d19:0x807e8c3eb7621a19",
-      "Location" : {
-        "Latitude" : "35.934977",
-        "Longitude" : "-83.981136"
-      },
-      "Published" : "2018-05-15T18:22:00Z",
-      "Title" : "4848 Lyons View Pike, Knoxville, TN 37919",
-      "Updated" : "2018-05-15T18:22:00Z"
-    },
-    "type" : "Feature"
-  }, {
-    "geometry" : {
       "coordinates" : [ -105.9345194, 35.6863831 ],
       "type" : "Point"
     },
@@ -6398,27 +7030,6 @@
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -84.1558122, 35.8858723 ],
-      "type" : "Point"
-    },
-    "properties" : {
-      "Google Maps URL" : "http://maps.google.com/?cid=1240602865259952892",
-      "Location" : {
-        "Address" : "155 West End Avenue, Knoxville, TN 37934, United States",
-        "Business Name" : "Clean Eatz",
-        "Country Code" : "US",
-        "Geo Coordinates" : {
-          "Latitude" : "35.8858723",
-          "Longitude" : "-84.1558122"
-        }
-      },
-      "Published" : "2018-05-11T20:17:09Z",
-      "Title" : "Clean Eatz",
-      "Updated" : "2018-05-11T20:17:09Z"
-    },
-    "type" : "Feature"
-  }, {
-    "geometry" : {
       "coordinates" : [ -117.208220, 32.874506 ],
       "type" : "Point"
     },
@@ -6488,18 +7099,18 @@
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -116.8005849, 36.3644695 ],
+      "coordinates" : [ -116.8026894, 36.3634859 ],
       "type" : "Point"
     },
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=13441910436223891903",
       "Location" : {
-        "Address" : "California 92328, United States",
+        "Address" : "Artists Palette, Furnace Creek, CA 92328, United States",
         "Business Name" : "Artist's Palette",
         "Country Code" : "US",
         "Geo Coordinates" : {
-          "Latitude" : "36.3644695",
-          "Longitude" : "-116.8005849"
+          "Latitude" : "36.3634859",
+          "Longitude" : "-116.8026894"
         }
       },
       "Published" : "2018-05-09T23:32:24Z",
@@ -6735,18 +7346,18 @@
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -115.0857225, 36.0220337 ],
+      "coordinates" : [ -115.0858020, 36.0220320 ],
       "type" : "Point"
     },
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=240902820017301271",
       "Location" : {
-        "Address" : "2220 Village Walk Drive #150, Henderson, NV 89052, United States",
+        "Address" : "2220 Village Walk Drive Ste 150, Henderson, NV 89052, United States",
         "Business Name" : "REI",
         "Country Code" : "US",
         "Geo Coordinates" : {
-          "Latitude" : "36.0220337",
-          "Longitude" : "-115.0857225"
+          "Latitude" : "36.0220320",
+          "Longitude" : "-115.0858020"
         }
       },
       "Published" : "2018-04-29T15:58:06Z",
@@ -7239,27 +7850,6 @@
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -76.6135964, 39.2770485 ],
-      "type" : "Point"
-    },
-    "properties" : {
-      "Google Maps URL" : "http://maps.google.com/?cid=7162949535443690419",
-      "Location" : {
-        "Address" : "18 East Cross Street, Baltimore, MD 21230, United States",
-        "Business Name" : "Crossbar",
-        "Country Code" : "US",
-        "Geo Coordinates" : {
-          "Latitude" : "39.2770485",
-          "Longitude" : "-76.6135964"
-        }
-      },
-      "Published" : "2018-03-03T06:20:14Z",
-      "Title" : "Crossbar",
-      "Updated" : "2018-03-03T06:20:14Z"
-    },
-    "type" : "Feature"
-  }, {
-    "geometry" : {
       "coordinates" : [ -103.5601209, 43.8465692 ],
       "type" : "Point"
     },
@@ -7386,7 +7976,7 @@
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -76.6215761, 39.2839021 ],
+      "coordinates" : [ -76.6200848, 39.2840184 ],
       "type" : "Point"
     },
     "properties" : {
@@ -7396,8 +7986,8 @@
         "Business Name" : "Oriole Park at Camden Yards",
         "Country Code" : "US",
         "Geo Coordinates" : {
-          "Latitude" : "39.2839021",
-          "Longitude" : "-76.6215761"
+          "Latitude" : "39.2840184",
+          "Longitude" : "-76.6200848"
         }
       },
       "Published" : "2018-02-26T16:05:13Z",
@@ -7476,7 +8066,7 @@
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=17053368035601057771",
       "Location" : {
-        "Address" : "16th Street, Tybee Island, GA 31328, United States",
+        "Address" : "Tybrisa Street, Tybee Island, GA 31328, United States",
         "Business Name" : "Tybee Beach Pier and Pavilion",
         "Country Code" : "US",
         "Geo Coordinates" : {
@@ -7623,7 +8213,7 @@
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=13352370835773649151",
       "Location" : {
-        "Address" : "18C 16th Street, Tybee Island, GA 31328, United States",
+        "Address" : "18C Tybrisa Street, Tybee Island, GA 31328, United States",
         "Business Name" : "Raw Ingredients",
         "Country Code" : "US",
         "Geo Coordinates" : {
@@ -7996,7 +8586,7 @@
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -89.4173054, 43.0649844 ],
+      "coordinates" : [ -89.4175436, 43.0649866 ],
       "type" : "Point"
     },
     "properties" : {
@@ -8006,8 +8596,8 @@
         "Business Name" : "Trader Joe's",
         "Country Code" : "US",
         "Geo Coordinates" : {
-          "Latitude" : "43.0649844",
-          "Longitude" : "-89.4173054"
+          "Latitude" : "43.0649866",
+          "Longitude" : "-89.4175436"
         }
       },
       "Published" : "2016-04-15T15:20:02Z",
@@ -9367,7 +9957,7 @@
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -71.0537815, 42.3636840 ],
+      "coordinates" : [ -71.0537000, 42.3637390 ],
       "type" : "Point"
     },
     "properties" : {
@@ -9377,8 +9967,8 @@
         "Business Name" : "The Paul Revere House",
         "Country Code" : "US",
         "Geo Coordinates" : {
-          "Latitude" : "42.3636840",
-          "Longitude" : "-71.0537815"
+          "Latitude" : "42.3637390",
+          "Longitude" : "-71.0537000"
         }
       },
       "Published" : "2018-01-21T17:47:11Z",
@@ -11251,7 +11841,7 @@
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -87.2933763, 36.5924230 ],
+      "coordinates" : [ -87.2937260, 36.5917020 ],
       "type" : "Point"
     },
     "properties" : {
@@ -11261,8 +11851,8 @@
         "Business Name" : "Tandoor Indian Bistro",
         "Country Code" : "US",
         "Geo Coordinates" : {
-          "Latitude" : "36.5924230",
-          "Longitude" : "-87.2933763"
+          "Latitude" : "36.5917020",
+          "Longitude" : "-87.2937260"
         }
       },
       "Published" : "2015-08-09T02:43:52Z",
@@ -11646,18 +12236,18 @@
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -84.7176200, 36.1021879 ],
+      "coordinates" : [ -84.7215297, 36.1026606 ],
       "type" : "Point"
     },
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=8056892748655544064",
       "Location" : {
-        "Address" : "920 Ridge Road, Lancing, TN 37770, United States",
+        "Address" : "Morgan County, TN, United States",
         "Business Name" : "Trailhead for Lilly Bluff Overlook and The Point",
         "Country Code" : "US",
         "Geo Coordinates" : {
-          "Latitude" : "36.1021879",
-          "Longitude" : "-84.7176200"
+          "Latitude" : "36.1026606",
+          "Longitude" : "-84.7215297"
         }
       },
       "Published" : "2017-12-10T23:58:03Z",
@@ -12126,6 +12716,38 @@
       "Published" : "2015-07-21T21:08:55Z",
       "Title" : "Audubon Aquarium of the Americas",
       "Updated" : "2017-12-05T15:42:31Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -89.636242, 44.859859 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=18341494563583063643",
+      "Location" : {
+        "Latitude" : "44.859859",
+        "Longitude" : "-89.636242"
+      },
+      "Published" : "2015-08-05T16:59:30Z",
+      "Title" : "Gander Mountain",
+      "Updated" : "2017-12-05T15:42:00Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -89.636242, 44.859859 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=18341494563583063643",
+      "Location" : {
+        "Latitude" : "44.859859",
+        "Longitude" : "-89.636242"
+      },
+      "Published" : "2015-08-05T16:59:30Z",
+      "Title" : "Gander Mountain",
+      "Updated" : "2017-12-05T15:42:00Z"
     },
     "type" : "Feature"
   }, {
@@ -14793,7 +15415,7 @@
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -93.2292665, 44.9740543 ],
+      "coordinates" : [ -93.2291405, 44.9742112 ],
       "type" : "Point"
     },
     "properties" : {
@@ -14803,8 +15425,8 @@
         "Business Name" : "Applebee's Grill + Bar",
         "Country Code" : "US",
         "Geo Coordinates" : {
-          "Latitude" : "44.9740543",
-          "Longitude" : "-93.2292665"
+          "Latitude" : "44.9742112",
+          "Longitude" : "-93.2291405"
         }
       },
       "Published" : "2017-07-28T19:58:06Z",
@@ -18514,19 +19136,14 @@
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ 126.4951874, 33.3924304 ],
+      "coordinates" : [ 126.494622, 33.392210 ],
       "type" : "Point"
     },
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=17384295518781319063",
       "Location" : {
-        "Address" : "2070-61 1100(Cheonbaek)-ro, Nohyeong-dong, Jeju-si, Jeju-do, South Korea",
-        "Business Name" : "Halla Mountain",
-        "Country Code" : "KR",
-        "Geo Coordinates" : {
-          "Latitude" : "33.3924304",
-          "Longitude" : "126.4951874"
-        }
+        "Latitude" : "33.392210",
+        "Longitude" : "126.494622"
       },
       "Published" : "2017-04-19T11:12:38Z",
       "Title" : "Halla Mountain",
@@ -18535,18 +19152,50 @@
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ 126.4333355, 33.2510348 ],
+      "coordinates" : [ 126.494622, 33.392210 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=17384295518781319063",
+      "Location" : {
+        "Latitude" : "33.392210",
+        "Longitude" : "126.494622"
+      },
+      "Published" : "2017-04-19T11:12:38Z",
+      "Title" : "Halla Mountain",
+      "Updated" : "2017-04-19T11:12:38Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 126.494622, 33.392210 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=17384295518781319063",
+      "Location" : {
+        "Latitude" : "33.392210",
+        "Longitude" : "126.494622"
+      },
+      "Published" : "2017-04-19T11:12:38Z",
+      "Title" : "Halla Mountain",
+      "Updated" : "2017-04-19T11:12:38Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 126.4333061, 33.2508434 ],
       "type" : "Point"
     },
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=13651734220454733066",
       "Location" : {
-        "Address" : "1886-2 Jungmun-dong, Seogwipo-si, Jeju-do, South Korea",
+        "Address" : "1884-5 Jungmun-dong, Seogwipo-si, Jeju-do, South Korea",
         "Business Name" : "Jeju Jungmun Craft Beer",
         "Country Code" : "KR",
         "Geo Coordinates" : {
-          "Latitude" : "33.2510348",
-          "Longitude" : "126.4333355"
+          "Latitude" : "33.2508434",
+          "Longitude" : "126.4333061"
         }
       },
       "Published" : "2017-04-19T10:59:46Z",
@@ -18915,7 +19564,7 @@
       "Google Maps URL" : "http://maps.google.com/?cid=12274916584136170987",
       "Location" : {
         "Address" : "506 South Gay Street, Knoxville, TN 37902, United States",
-        "Business Name" : "Nama Sushi Bar",
+        "Business Name" : "Nama Sushi Bar - Downtown Knoxville",
         "Country Code" : "US",
         "Geo Coordinates" : {
           "Latitude" : "35.9650216",
@@ -20370,7 +21019,7 @@
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -76.5987948, 39.2844964 ],
+      "coordinates" : [ -76.5988094, 39.2844342 ],
       "type" : "Point"
     },
     "properties" : {
@@ -20380,8 +21029,8 @@
         "Business Name" : "Cava Mezze - Harbor East Baltimore",
         "Country Code" : "US",
         "Geo Coordinates" : {
-          "Latitude" : "39.2844964",
-          "Longitude" : "-76.5987948"
+          "Latitude" : "39.2844342",
+          "Longitude" : "-76.5988094"
         }
       },
       "Published" : "2016-12-24T17:53:32Z",
@@ -20433,7 +21082,7 @@
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -84.0830469, 35.9133253 ],
+      "coordinates" : [ -84.0831082, 35.9133417 ],
       "type" : "Point"
     },
     "properties" : {
@@ -20443,8 +21092,8 @@
         "Business Name" : "Sport Clips Haircuts of Town & Country",
         "Country Code" : "US",
         "Geo Coordinates" : {
-          "Latitude" : "35.9133253",
-          "Longitude" : "-84.0830469"
+          "Latitude" : "35.9133417",
+          "Longitude" : "-84.0831082"
         }
       },
       "Published" : "2016-12-19T19:02:49Z",
@@ -21055,7 +21704,7 @@
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -83.9779573, 35.9429949 ],
+      "coordinates" : [ -83.9780361, 35.9428649 ],
       "type" : "Point"
     },
     "properties" : {
@@ -21065,8 +21714,8 @@
         "Business Name" : "Hard Knox Pizzeria Bearden",
         "Country Code" : "US",
         "Geo Coordinates" : {
-          "Latitude" : "35.9429949",
-          "Longitude" : "-83.9779573"
+          "Latitude" : "35.9428649",
+          "Longitude" : "-83.9780361"
         }
       },
       "Published" : "2016-11-13T23:44:30Z",
@@ -21505,7 +22154,7 @@
       "Google Maps URL" : "http://maps.google.com/?cid=18183847063093951826",
       "Location" : {
         "Address" : "8352 Honeygo Boulevard, Nottingham, MD 21236, United States",
-        "Business Name" : "IKEA Baltimore Home Furnishings",
+        "Business Name" : "IKEA",
         "Country Code" : "US",
         "Geo Coordinates" : {
           "Latitude" : "39.3748373",
@@ -23029,7 +23678,7 @@
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -3.7554862, 56.0191783 ],
+      "coordinates" : [ -3.7564541, 56.0189491 ],
       "type" : "Point"
     },
     "properties" : {
@@ -23039,8 +23688,8 @@
         "Business Name" : "The Kelpies",
         "Country Code" : "GB",
         "Geo Coordinates" : {
-          "Latitude" : "56.0191783",
-          "Longitude" : "-3.7554862"
+          "Latitude" : "56.0189491",
+          "Longitude" : "-3.7564541"
         }
       },
       "Published" : "2016-09-25T20:20:15Z",
@@ -24352,7 +25001,7 @@
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -84.0145845, 35.9336020 ],
+      "coordinates" : [ -84.0144328, 35.9336427 ],
       "type" : "Point"
     },
     "properties" : {
@@ -24362,8 +25011,8 @@
         "Business Name" : "REI",
         "Country Code" : "US",
         "Geo Coordinates" : {
-          "Latitude" : "35.9336020",
-          "Longitude" : "-84.0145845"
+          "Latitude" : "35.9336427",
+          "Longitude" : "-84.0144328"
         }
       },
       "Published" : "2016-08-29T18:34:27Z",
@@ -26265,7 +26914,7 @@
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -84.0458784, 35.9271850 ],
+      "coordinates" : [ -84.0459828, 35.9271838 ],
       "type" : "Point"
     },
     "properties" : {
@@ -26275,8 +26924,8 @@
         "Business Name" : "Trader Joe's",
         "Country Code" : "US",
         "Geo Coordinates" : {
-          "Latitude" : "35.9271850",
-          "Longitude" : "-84.0458784"
+          "Latitude" : "35.9271838",
+          "Longitude" : "-84.0459828"
         }
       },
       "Published" : "2016-05-18T22:14:10Z",
@@ -26799,7 +27448,7 @@
       "Google Maps URL" : "http://maps.google.com/?cid=15974501460781203018",
       "Location" : {
         "Address" : "1800 Ocean Front Walk, Venice, CA 90291, United States",
-        "Business Name" : "Original Muscle Beach",
+        "Business Name" : "Muscle Beach",
         "Country Code" : "US",
         "Geo Coordinates" : {
           "Latitude" : "33.9854480",
@@ -27467,7 +28116,7 @@
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -87.6053243, 41.8916325 ],
+      "coordinates" : [ -87.6042679, 41.8917087 ],
       "type" : "Point"
     },
     "properties" : {
@@ -27477,8 +28126,8 @@
         "Business Name" : "Navy Pier",
         "Country Code" : "US",
         "Geo Coordinates" : {
-          "Latitude" : "41.8916325",
-          "Longitude" : "-87.6053243"
+          "Latitude" : "41.8917087",
+          "Longitude" : "-87.6042679"
         }
       },
       "Published" : "2015-10-20T18:07:09Z",
@@ -28201,7 +28850,7 @@
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=11813980273759171540",
       "Location" : {
-        "Address" : "Washington, DC 20004, United States",
+        "Address" : "1455 Pennsylvania Avenue Northwest, Washington, DC 20004, United States",
         "Business Name" : "Freedom Plaza",
         "Country Code" : "US",
         "Geo Coordinates" : {
@@ -28243,7 +28892,7 @@
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=12172341452544837531",
       "Location" : {
-        "Address" : "6th & Constitution Ave NW, Washington, DC 20565, United States",
+        "Address" : "Constitution Avenue Northwest, Washington, DC 20565, United States",
         "Business Name" : "National Gallery of Art",
         "Country Code" : "US",
         "Geo Coordinates" : {
@@ -28537,7 +29186,7 @@
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -105.2794186, 40.0193217 ],
+      "coordinates" : [ -105.2795474, 40.0179495 ],
       "type" : "Point"
     },
     "properties" : {
@@ -28547,8 +29196,8 @@
         "Business Name" : "Pearl Street Mall",
         "Country Code" : "US",
         "Geo Coordinates" : {
-          "Latitude" : "40.0193217",
-          "Longitude" : "-105.2794186"
+          "Latitude" : "40.0179495",
+          "Longitude" : "-105.2795474"
         }
       },
       "Published" : "2015-08-06T20:30:31Z",
@@ -30134,7 +30783,7 @@
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -121.2574392, 35.6631720 ],
+      "coordinates" : [ -121.2577244, 35.6629651 ],
       "type" : "Point"
     },
     "properties" : {
@@ -30144,8 +30793,8 @@
         "Business Name" : "Elephant Seal Vista Point",
         "Country Code" : "US",
         "Geo Coordinates" : {
-          "Latitude" : "35.6631720",
-          "Longitude" : "-121.2574392"
+          "Latitude" : "35.6629651",
+          "Longitude" : "-121.2577244"
         }
       },
       "Published" : "2015-07-24T14:43:53Z",

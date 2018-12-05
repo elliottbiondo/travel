@@ -13,8 +13,8 @@ with open("places.json") as f:
         elif "Longitude" in line:
             lon.append(float(line.split()[2].replace('"', '').replace(',', '')))
 
-#lat_min = 23
-lat_min = 0
+lat_min = 23
+#lat_min = 0
 lat_max = 60
 lon_min = -150
 lon_max = 150
@@ -44,5 +44,4 @@ lons, lats = m(lon, lat)
 # plot points as red dots
 m.scatter(lons, lats, marker = 'o', s=2, color=marker_color, zorder=5)
 
-
-plt.savefig("map.png", bbox_inches="tight")
+plt.savefig("map.png", bbox_inches="tight", dpi=1000)
