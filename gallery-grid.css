@@ -37,14 +37,14 @@ body
     max-height: 250px;
     overflow: hidden;
     object-fit: cover;
-    margin-bottom: 10px;
-    transition: 0.2s ease-in-out;
+    margin-bottom: 0.5vw;
+    transition: 0s ease-in-out;
     box-shadow: 0 2px 3px rgba(0,0,0,0.2);
 }
 
 
 .tz-gallery .lightbox img:hover {
-    transform: scale(1.06);
+    transform: scale(1.01);
     box-shadow: 0 8px 10px rgba(0,0,0,0.7);
 }
 
