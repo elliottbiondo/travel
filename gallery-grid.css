@@ -2,7 +2,8 @@ body
     background-image: linear-gradient(to top, #ecedee 0%, #eceeef 75%, #e7e8e9 100%);
     min-height: 100vh;
     padding: 100px 0;
-    font-family: 'Alegreya Sans SC', sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
+    font-style: 'Thin'
     font-size: 48px;
 }
 
@@ -16,8 +17,9 @@ body
 
 .gallery-container h1 {
     text-align: center;
-    margin-top: 70px;
-    font-family: 'Alegreya Sans SC', sans-serif;
+    margin-top: 100px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-style: 'Thin'
     font-size: 4vw;
     color: grey;
 }
@@ -81,7 +83,7 @@ body
     width: 91vw;
     height: 13vw;
     max-width: 760px;
-    max-height: 100px;
+    max-height: 120px;
     overflow: hidden;
     object-fit: cover;
     margin-bottom: 10px;
