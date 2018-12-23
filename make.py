@@ -8,7 +8,6 @@ with open("header.html", 'r') as f:
 dirs = os.listdir("images")
 dirs.remove(".DS_Store")
 
-
 for d in reversed(sorted(dirs)):
     pics = os.listdir("images/{0}".format(d))
 
@@ -20,14 +19,16 @@ for d in reversed(sorted(dirs)):
         if p == ".DS_Store":
             continue
         name = 'images/{}/{}'.format(d, p)
+        thumb_name = 'thumbs/{}/{}'.format(d, p)
 
         if pic_index == 0:
-            out +='            <a class="lightbox" href="{0}"><img src="{0}" title="{1}"></a>\n'.format(name, desc)
+            out +='            <a class="lightbox" href="{0}"><img src="{1}" title="{2}"></a>\n'.format(name, thumb_name, desc)
         else:
             out +='            <a class="lightbox" href="{}" style="display: none;"></a>\n'.format(name)
         pic_index += 1
 
     out +='        </div>\n'
+
 
 with open("footer.html", 'r') as f:
     for line in f.readlines():
@@ -35,5 +36,3 @@ with open("footer.html", 'r') as f:
 
 with open("index.html", 'w') as f:
     f.write(out)
-
-
