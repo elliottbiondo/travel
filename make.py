@@ -19,7 +19,7 @@ for d in reversed(sorted(dirs)):
         if p == ".DS_Store":
             continue
         name = 'images/{}/{}'.format(d, p)
-        thumb_name = 'thumbs/{}/{}'.format(d, p)
+        thumb_name = 'thumbs/{}_{}'.format(d, p)
 
         if pic_index == 0:
             out +='            <a class="lightbox" href="{0}"><img src="{1}" title="{2}"></a>\n'.format(name, thumb_name, desc)
