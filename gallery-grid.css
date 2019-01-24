@@ -19,10 +19,20 @@ body
     text-align: center;
     margin-top: 100px;
     font-family: 'Josefin Sans', sans-serif;
-    font-style: 'Thin'
+    font-style: 'Thin';
     font-size: 4vw;
     color: grey;
 }
+
+.gallery-container h2 {
+    text-align: center;
+    margin-top: 10px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-style: 'Thin';
+    font-size: 1.5vw;
+    color: grey;
+}
+
 
 .tz-gallery {
     padding: 0px;
