@@ -22,9 +22,9 @@ for d in reversed(sorted(dirs)):
         thumb_name = 'thumbs/{}_{}'.format(d, p)
 
         if pic_index == 0:
-            out +='            <a class="lightbox" href="{0}"><img src="{1}" title="{2}"></a>\n'.format(name, thumb_name, desc)
+            out +='            <a class="lightbox" href="{0}" data-caption="{2}"><img src="{1}" title="{2}"></a>\n'.format(name, thumb_name, desc)
         else:
-            out +='            <a class="lightbox" href="{}" style="display: none;"></a>\n'.format(name)
+            out +='            <a class="lightbox" href="{0}" data-caption="{1}" style="display: none;"></a>\n'.format(name, desc)
         pic_index += 1
 
     out +='        </div>\n'
