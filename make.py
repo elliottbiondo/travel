@@ -27,6 +27,7 @@ for d in reversed(sorted(dirs)):
             out +='            <a class="lightbox" href="{0}" data-caption="{1}" style="display: none;"></a>\n'.format(name, desc)
         pic_index += 1
 
+    out +='<h3>{}</h3>\n'.format(desc)
     out +='        </div>\n'
 
 

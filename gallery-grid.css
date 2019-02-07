@@ -33,6 +33,16 @@ body
     color: grey;
 }
 
+.gallery-container h3 {
+    text-align: center;
+    margin-top: -1px;
+    margin-bottom: calc(1px + 1vh);
+    font-family: 'Josefin Sans', sans-serif;
+    font-style: 'Thin';
+    font-size:calc(5px + 0.5vw);
+    color: grey;
+}
+
 
 .tz-gallery {
     padding: 0px;
