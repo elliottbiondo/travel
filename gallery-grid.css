@@ -39,8 +39,8 @@ body
     margin-bottom: calc(1px + 1vh);
     font-family: 'Josefin Sans', sans-serif;
     font-style: 'Thin';
-    font-size:calc(5px + 0.5vw);
-    color: grey;
+    font-size:calc(5px + 0.6vw);
+    color: black;
 }
 
 
