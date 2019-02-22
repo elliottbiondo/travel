@@ -33,6 +33,20 @@ body
     color: grey;
 }
 
+
+@media screen and (min-width: 1500px) {
+.gallery-container h3 {
+    text-align: center;
+    margin-top: -4px;
+    margin-bottom: 10px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-style: 'Thin';
+    font-size:12px;
+    color: black;
+}
+}
+
+@media screen and (max-width: 1500px) {
 .gallery-container h3 {
     text-align: center;
     margin-top: -1px;
@@ -41,6 +55,7 @@ body
     font-style: 'Thin';
     font-size:calc(3px + 0.6vw);
     color: black;
+}
 }
 
 
