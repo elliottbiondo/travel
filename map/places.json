@@ -2,6 +2,600 @@
   "type" : "FeatureCollection",
   "features" : [ {
     "geometry" : {
+      "coordinates" : [ -80.1296706, 25.7635368 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=6857793384584556002",
+      "Location" : {
+        "Address" : "1 Washington Avenue, Miami Beach, FL 33139, United States",
+        "Business Name" : "South Pointe Park Pier",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "25.7635368",
+          "Longitude" : "-80.1296706"
+        }
+      },
+      "Published" : "2019-07-07T22:29:52Z",
+      "Title" : "South Pointe Park Pier",
+      "Updated" : "2019-07-07T22:29:52Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -80.1987882, 25.7994422 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=948747090004677381",
+      "Location" : {
+        "Address" : "2315 Northwest 2nd Avenue, Miami, FL 33127, United States",
+        "Business Name" : "JOE & THE JUICE",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "25.7994422",
+          "Longitude" : "-80.1987882"
+        }
+      },
+      "Published" : "2019-07-07T20:33:26Z",
+      "Title" : "JOE & THE JUICE",
+      "Updated" : "2019-07-07T20:33:26Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -80.2033731, 25.8014708 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=13115718301690456024",
+      "Location" : {
+        "Address" : "2616 Northwest 5 Avenue, Miami, FL 33127, United States",
+        "Business Name" : "Love Life Cafe",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "25.8014708",
+          "Longitude" : "-80.2033731"
+        }
+      },
+      "Published" : "2019-07-07T20:02:20Z",
+      "Title" : "Love Life Cafe",
+      "Updated" : "2019-07-07T20:02:20Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -80.3052000, 25.1118512 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=7342496011940749925",
+      "Location" : {
+        "Address" : "John Pennekamp Coral Reef State Park, Key Largo, FL, United States",
+        "Business Name" : "Grecian Rocks",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "25.1118512",
+          "Longitude" : "-80.3052000"
+        }
+      },
+      "Published" : "2019-07-07T17:46:02Z",
+      "Title" : "Grecian Rocks",
+      "Updated" : "2019-07-07T17:46:02Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -80.2970911, 25.1233694 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=9000342317377122126",
+      "Location" : {
+        "Address" : "North Atlantic Ocean, United States",
+        "Business Name" : "Christ Of The Abyss",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "25.1233694",
+          "Longitude" : "-80.2970911"
+        }
+      },
+      "Published" : "2019-07-07T17:45:15Z",
+      "Title" : "Christ Of The Abyss",
+      "Updated" : "2019-07-07T17:45:15Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -80.4060761, 25.1252463 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=16786644887394330535",
+      "Location" : {
+        "Address" : "102601 Overseas Highway, Key Largo, FL 33037, United States",
+        "Business Name" : "John Pennekamp Coral Reef State Park",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "25.1252463",
+          "Longitude" : "-80.4060761"
+        }
+      },
+      "Published" : "2019-07-07T17:44:56Z",
+      "Title" : "John Pennekamp Coral Reef State Park",
+      "Updated" : "2019-07-07T17:44:56Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -80.4436912, 25.0931112 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=11027590930253177226",
+      "Location" : {
+        "Address" : "99360 Overseas Highway, Key Largo, FL 33037, United States",
+        "Business Name" : "Sunset Cove Beach Resort",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "25.0931112",
+          "Longitude" : "-80.4436912"
+        }
+      },
+      "Published" : "2019-07-07T11:57:13Z",
+      "Title" : "Sunset Cove Beach Resort",
+      "Updated" : "2019-07-07T11:57:13Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -81.0905186, 24.7127304 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=10076599647827219212",
+      "Location" : {
+        "Address" : "3740 Overseas Highway, Marathon, FL 33050, United States",
+        "Business Name" : "Upper Crust",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "24.7127304",
+          "Longitude" : "-81.0905186"
+        }
+      },
+      "Published" : "2019-07-06T22:48:46Z",
+      "Title" : "Upper Crust",
+      "Updated" : "2019-07-06T22:48:46Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -82.8731874, 24.6284770 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=6607078609581710753",
+      "Location" : {
+        "Address" : "Florida, United States",
+        "Business Name" : "Dry Tortugas National Park",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "24.6284770",
+          "Longitude" : "-82.8731874"
+        }
+      },
+      "Published" : "2019-07-06T19:40:36Z",
+      "Title" : "Dry Tortugas National Park",
+      "Updated" : "2019-07-06T19:40:36Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -80.5190768, 25.0081102 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=6382874504567140654",
+      "Location" : {
+        "Address" : "171 Hood Avenue # 2, Tavernier, FL 33070, United States",
+        "Business Name" : "Flying Fisherman Sunglasses & Apparel",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "25.0081102",
+          "Longitude" : "-80.5190768"
+        }
+      },
+      "Published" : "2019-07-06T19:40:17Z",
+      "Title" : "Flying Fisherman Sunglasses & Apparel",
+      "Updated" : "2019-07-06T19:40:17Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -81.7988752, 24.5625158 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=17347022621525383735",
+      "Location" : {
+        "Address" : "100 Grinnell Street, Key West, FL 33040, United States",
+        "Business Name" : "Yankee Freedom III Dry Tortugas Ferry",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "24.5625158",
+          "Longitude" : "-81.7988752"
+        }
+      },
+      "Published" : "2019-07-06T10:53:29Z",
+      "Title" : "Yankee Freedom III Dry Tortugas Ferry",
+      "Updated" : "2019-07-06T10:53:29Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -81.7988405, 24.5509917 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=7424914812729040631",
+      "Location" : {
+        "Address" : "500 Truman Avenue #1, Key West, FL 33040, United States",
+        "Business Name" : "Sinz Burritos",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "24.5509917",
+          "Longitude" : "-81.7988405"
+        }
+      },
+      "Published" : "2019-07-05T23:33:28Z",
+      "Title" : "Sinz Burritos",
+      "Updated" : "2019-07-05T23:33:28Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -81.8006119, 24.5512079 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=1415295213372393962",
+      "Location" : {
+        "Address" : "907 Whitehead Street, Key West, FL 33040, United States",
+        "Business Name" : "The Ernest Hemingway Home and Museum",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "24.5512079",
+          "Longitude" : "-81.8006119"
+        }
+      },
+      "Published" : "2019-07-05T23:04:55Z",
+      "Title" : "The Ernest Hemingway Home and Museum",
+      "Updated" : "2019-07-05T23:04:55Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -81.7974840, 24.5465169 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=17963527835743759953",
+      "Location" : {
+        "Address" : "Whitehead St & South Street, Key West, FL 33040, United States",
+        "Business Name" : "Southernmost Point of the Continental US",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "24.5465169",
+          "Longitude" : "-81.7974840"
+        }
+      },
+      "Published" : "2019-07-05T23:04:45Z",
+      "Title" : "Southernmost Point of the Continental US",
+      "Updated" : "2019-07-05T23:04:45Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -81.7967107, 24.5600908 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=15443420840996631598",
+      "Location" : {
+        "Address" : "1015 Fleming Street, Key West, FL 33040, United States",
+        "Business Name" : "Eden House Key West",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "24.5600908",
+          "Longitude" : "-81.7967107"
+        }
+      },
+      "Published" : "2019-07-05T22:24:45Z",
+      "Title" : "Eden House Key West",
+      "Updated" : "2019-07-05T22:24:45Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -80.5839423, 25.3954368 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=11137386830277795512",
+      "Location" : {
+        "Address" : "40001 State Highway 9336, Homestead, FL 33034, United States",
+        "Business Name" : "Ernest F. Coe Visitor Center",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "25.3954368",
+          "Longitude" : "-80.5839423"
+        }
+      },
+      "Published" : "2019-07-05T17:20:36Z",
+      "Title" : "Ernest F. Coe Visitor Center",
+      "Updated" : "2019-07-05T17:20:36Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -80.912478, 25.190533 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Coot+Bay,+Florida&ftid=0x88d0ae1e70be650b:0xa36f669cb2dc707f",
+      "Location" : {
+        "Latitude" : "25.190533",
+        "Longitude" : "-80.912478"
+      },
+      "Published" : "2019-07-05T17:20:22Z",
+      "Title" : "Coot Bay, Florida",
+      "Updated" : "2019-07-05T17:20:22Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -80.9239243, 25.1412489 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=14332482496474309327",
+      "Location" : {
+        "Address" : "1 Flamingo Lodge Highway, Homestead, FL 33034, United States",
+        "Business Name" : "Flamingo Visitor Center",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "25.1412489",
+          "Longitude" : "-80.9239243"
+        }
+      },
+      "Published" : "2019-07-05T17:20:06Z",
+      "Title" : "Flamingo Visitor Center",
+      "Updated" : "2019-07-05T17:20:06Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -80.4522558, 25.4777803 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=8030581406136329578",
+      "Location" : {
+        "Address" : "1875 Northeast 8th Street, Homestead, FL 33033, United States",
+        "Business Name" : "Taqueria Morelia",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "25.4777803",
+          "Longitude" : "-80.4522558"
+        }
+      },
+      "Published" : "2019-07-05T01:57:46Z",
+      "Title" : "Taqueria Morelia",
+      "Updated" : "2019-07-05T01:57:46Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -80.7836758, 25.4409200 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=3162880483835209494",
+      "Location" : {
+        "Address" : "Florida, United States",
+        "Business Name" : "Pa-hay-okee Trailhead",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "25.4409200",
+          "Longitude" : "-80.7836758"
+        }
+      },
+      "Published" : "2019-07-05T00:27:37Z",
+      "Title" : "Pa-hay-okee Trailhead",
+      "Updated" : "2019-07-05T00:27:37Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -80.8320383, 25.3235757 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=1457180755701530467",
+      "Location" : {
+        "Address" : "Homestead, FL 33034, United States",
+        "Business Name" : "Mahogany Hammock Trail",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "25.3235757",
+          "Longitude" : "-80.8320383"
+        }
+      },
+      "Published" : "2019-07-05T00:09:55Z",
+      "Title" : "Mahogany Hammock Trail",
+      "Updated" : "2019-07-05T00:09:55Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -80.6064611, 25.3823998 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=6672882465148009432",
+      "Location" : {
+        "Address" : "Homestead, FL 33030, United States",
+        "Business Name" : "Anhinga Trail",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "25.3823998",
+          "Longitude" : "-80.6064611"
+        }
+      },
+      "Published" : "2019-07-04T23:16:02Z",
+      "Title" : "Anhinga Trail",
+      "Updated" : "2019-07-04T23:16:02Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -80.5017723, 25.4475288 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=2386359721089068313",
+      "Location" : {
+        "Address" : "19200 Southwest 344th Street, Homestead, FL 33034, United States",
+        "Business Name" : "Robert Is Here Fruit Stand",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "25.4475288",
+          "Longitude" : "-80.5017723"
+        }
+      },
+      "Published" : "2019-07-04T22:11:57Z",
+      "Title" : "Robert Is Here Fruit Stand",
+      "Updated" : "2019-07-04T22:11:57Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -80.167000, 25.385100 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=25.3851,-80.167",
+      "Location" : {
+        "Latitude" : "25.385100",
+        "Longitude" : "-80.167000"
+      },
+      "Published" : "2019-07-04T21:34:07Z",
+      "Title" : "25.3851,-80.167",
+      "Updated" : "2019-07-04T21:34:07Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -80.1212639, 25.4415556 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=13422270557937578714",
+      "Location" : {
+        "Address" : "Florida, United States",
+        "Business Name" : "Mandalay Wreck",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "25.4415556",
+          "Longitude" : "-80.1212639"
+        }
+      },
+      "Published" : "2019-07-04T21:33:27Z",
+      "Title" : "Mandalay Wreck",
+      "Updated" : "2019-07-04T21:33:27Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -80.3347549, 25.4644137 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=18405096000782838872",
+      "Location" : {
+        "Address" : "9700 Southwest 328th Street, Homestead, FL 33033, United States",
+        "Business Name" : "Biscayne National Park - Dante Fascell Visitor Center",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "25.4644137",
+          "Longitude" : "-80.3347549"
+        }
+      },
+      "Published" : "2019-07-04T21:32:48Z",
+      "Title" : "Biscayne National Park - Dante Fascell Visitor Center",
+      "Updated" : "2019-07-04T21:32:48Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 4.884069, 52.359128 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=52.359128,4.884069",
+      "Location" : {
+        "Latitude" : "52.359128",
+        "Longitude" : "4.884069"
+      },
+      "Published" : "2016-10-08T21:15:00Z",
+      "Title" : "52.359128,4.884069",
+      "Updated" : "2019-07-04T11:20:17Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -80.1506022, 26.0742344 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=3089526096205892582",
+      "Location" : {
+        "Address" : "100 Terminal Drive, Fort Lauderdale, FL 33315, United States",
+        "Business Name" : "Fort Lauderdale-Hollywood International Airport",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "26.0742344",
+          "Longitude" : "-80.1506022"
+        }
+      },
+      "Published" : "2019-07-04T03:09:34Z",
+      "Title" : "Fort Lauderdale-Hollywood International Airport",
+      "Updated" : "2019-07-04T03:09:34Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -80.4356315, 25.4809005 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=8264942612349835902",
+      "Location" : {
+        "Address" : "1071 NE 28th Ave, Homestead, FL 33033, United States",
+        "Business Name" : "Uptown Suites Extended Stay Miami FL - Homestead",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "25.4809005",
+          "Longitude" : "-80.4356315"
+        }
+      },
+      "Published" : "2019-07-04T03:09:16Z",
+      "Title" : "Uptown Suites Extended Stay Miami FL - Homestead",
+      "Updated" : "2019-07-04T03:09:16Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
       "coordinates" : [ -77.243034, 39.289806 ],
       "type" : "Point"
     },
@@ -1781,7 +2375,7 @@
       "Google Maps URL" : "http://maps.google.com/?cid=16379477030004888529",
       "Location" : {
         "Address" : "516 Williams Street, Knoxville, TN 37917, United States",
-        "Business Name" : "A Dopo Pizza",
+        "Business Name" : "A Dopo Sourdough Pizza",
         "Country Code" : "US",
         "Geo Coordinates" : {
           "Latitude" : "35.9722640",
@@ -2233,7 +2827,7 @@
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=15106153877412771128",
       "Location" : {
-        "Address" : "4114 University Way Northeast, Seattle, WA 98105, United States",
+        "Address" : "4114 University Way, Seattle, WA 98105, United States",
         "Business Name" : "Shultzy's Bar & Grill",
         "Country Code" : "US",
         "Geo Coordinates" : {
@@ -3260,7 +3854,7 @@
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=11567105585857858898",
       "Location" : {
-        "Address" : "201 Waterfront Street, Forest Heights, MD 20745, United States",
+        "Address" : "201 Waterfront Street, National Harbor, MD 20745, United States",
         "Business Name" : "Gaylord National Resort & Convention Center",
         "Country Code" : "US",
         "Geo Coordinates" : {
@@ -9422,7 +10016,7 @@
       "Google Maps URL" : "http://maps.google.com/?cid=16442469169200870260",
       "Location" : {
         "Address" : "701 16th Street Mall, Denver, CO 80202, United States",
-        "Business Name" : "Jamba Juice 16th Street",
+        "Business Name" : "Jamba 16th Street",
         "Country Code" : "US",
         "Geo Coordinates" : {
           "Latitude" : "39.7453590",
@@ -9547,7 +10141,7 @@
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=458725651041105887",
       "Location" : {
-        "Address" : "74485 National Park Dr, Twentynine Palms Highway, CA 92277, United States",
+        "Address" : "74485 National Park Dr, Twentynine Palms Highway, Twentynine Palms, CA 92277, United States",
         "Business Name" : "Elephant Rock",
         "Country Code" : "US",
         "Geo Coordinates" : {
@@ -20078,18 +20672,18 @@
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -84.1298713, 35.8984727 ],
+      "coordinates" : [ -84.1298570, 35.8984568 ],
       "type" : "Point"
     },
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=700623392246788259",
       "Location" : {
         "Address" : "10437 Kingston Pike, Knoxville, TN 37922, United States",
-        "Business Name" : "Valvoline Instant Oil Change",
+        "Business Name" : "Valvoline Instant Oil ChangeValvoline I",
         "Country Code" : "US",
         "Geo Coordinates" : {
-          "Latitude" : "35.8984727",
-          "Longitude" : "-84.1298713"
+          "Latitude" : "35.8984568",
+          "Longitude" : "-84.1298570"
         }
       },
       "Published" : "2017-06-30T22:08:26Z",
@@ -24804,27 +25398,6 @@
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ 4.8840693, 52.3591280 ],
-      "type" : "Point"
-    },
-    "properties" : {
-      "Google Maps URL" : "http://maps.google.com/?cid=6570049260234003678",
-      "Location" : {
-        "Address" : "Hobbemastraat 19, 1071 XZ Amsterdam, Netherlands",
-        "Business Name" : "I Amsterdam Sign",
-        "Country Code" : "NL",
-        "Geo Coordinates" : {
-          "Latitude" : "52.3591280",
-          "Longitude" : "4.8840693"
-        }
-      },
-      "Published" : "2016-10-08T21:15:00Z",
-      "Title" : "I Amsterdam Sign",
-      "Updated" : "2016-10-08T21:15:00Z"
-    },
-    "type" : "Feature"
-  }, {
-    "geometry" : {
       "coordinates" : [ 4.889617, 52.369359 ],
       "type" : "Point"
     },
@@ -24847,7 +25420,7 @@
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=15319659771873942282",
       "Location" : {
-        "Address" : "Prinsengracht 263-267, 1016 GV Amsterdam, Netherlands",
+        "Address" : "Westermarkt 20, 1016 GV Amsterdam, Netherlands",
         "Business Name" : "Anne Frank House",
         "Country Code" : "NL",
         "Geo Coordinates" : {
@@ -30587,7 +31160,7 @@
       "Google Maps URL" : "http://maps.google.com/?cid=15059617804596480483",
       "Location" : {
         "Address" : "6701 Minnesota 1, Finland, MN 55603, United States",
-        "Business Name" : "West Branch RV Park & Cabins, The Original Gangster LLC, Capone's Bar & Grill",
+        "Business Name" : "West Branch Cabin and RV Ranch, Original Gangster LLC, Capone's Pub & Pizza",
         "Country Code" : "US",
         "Geo Coordinates" : {
           "Latitude" : "47.4152470",
@@ -31554,18 +32127,18 @@
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -86.7080926, 46.4412764 ],
+      "coordinates" : [ -86.7078804, 46.4413752 ],
       "type" : "Point"
     },
     "properties" : {
       "Google Maps URL" : "http://maps.google.com/?cid=2632256046509104526",
       "Location" : {
-        "Address" : "Bay Furnace Road, Munising, MI 49862, United States",
+        "Address" : "E7900 W, Michigan 28, Munising, MI 49862, United States",
         "Business Name" : "Bay Furnace Campground",
         "Country Code" : "US",
         "Geo Coordinates" : {
-          "Latitude" : "46.4412764",
-          "Longitude" : "-86.7080926"
+          "Latitude" : "46.4413752",
+          "Longitude" : "-86.7078804"
         }
       },
       "Published" : "2015-08-02T00:10:50Z",
