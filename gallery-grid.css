@@ -116,9 +116,9 @@ body
 
 .tz-gallery .map_center img {
     width: 90vw;
-    height: 17vw;
+    height: 14vw;
     max-width: 760px;
-    max-height: 150px;
+    max-height: 120px;
     overflow: hidden;
     object-fit: cover;
     margin-bottom: 10px;
