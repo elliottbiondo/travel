@@ -14,8 +14,8 @@ with open("places.json") as f:
 
 lon_min = -140
 lon_max = 140
-lat_min = 15
-lat_max = 65
+lat_min = 17
+lat_max = 62
 
 ax = plt.subplot(projection = ccrs.PlateCarree())
 ax.add_feature(cf.NaturalEarthFeature('physical', 'land', '50m', edgecolor='none', facecolor='#e0e0e0'))
@@ -24,6 +24,6 @@ ax.set_extent([lon_min, lon_max, lat_min, lat_max], crs=ccrs.PlateCarree())
 
 
 # plot points as red dots
-ax.scatter(lon, lat, transform=ccrs.PlateCarree(), s=1, color='black',  zorder=2)
+ax.scatter(lon, lat, transform=ccrs.PlateCarree(), s=0.3, color='black',  zorder=2)
 
 plt.savefig("map.png", bbox_inches="tight", dpi=1000, pad_inches=-0.01)
