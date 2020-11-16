@@ -1,10 +1,12 @@
-) Vermont
-) Connecticut
-) Mississippi
-) Arkansas
-) Missouri
-) Oklahoma
-) Kansas
-) North Dakota
-) Alaska
-) Hawaii
+
+
+1) Vermont
+2) Connecticut
+3) Mississippi
+4) Arkansas
+5) Missouri
+6) Oklahoma
+7) Kansas
+8) North Dakota
+9) Alaska
+10) Hawaii
