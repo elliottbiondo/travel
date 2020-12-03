@@ -1,5 +1,5 @@
 1) Rocky Mountain
-2) Shenedoah
+2) Shenendoah
 3) Great Smoky Mountains
 4) Zion
 5) Conagree
@@ -16,3 +16,5 @@
 16) Glacier
 17) Grand Tetons
 18) Yellowstone 
+19) Hot Springs
+20) Gateway Arch
