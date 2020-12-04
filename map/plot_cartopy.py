@@ -12,6 +12,12 @@ with open("places.json") as f:
         elif "Longitude" in line:
             lon.append(float(line.split()[2].replace('"', '').replace(',', '')))
 
+with open("hack.txt") as f:
+    for line in f.readlines():
+        if "LL" in line:
+            lat.append(float(line.split()[1].strip(",")))
+            lon.append(float(line.split()[2]))
+
 lon_min = -140
 lon_max = 140
 lat_min = 17
