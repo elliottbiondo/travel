@@ -29,7 +29,6 @@ ax.add_feature(cf.NaturalEarthFeature('physical', 'lakes', '50m', edgecolor='non
 ax.set_extent([lon_min, lon_max, lat_min, lat_max], crs=ccrs.PlateCarree())
 
 
-# plot points as red dots
-ax.scatter(lon, lat, transform=ccrs.PlateCarree(), s=0.3, color='black',  zorder=2)
+ax.scatter(lon, lat, transform=ccrs.PlateCarree(), s=1, color='black',  zorder=2, lw=0)
 
 plt.savefig("map.png", bbox_inches="tight", dpi=1000, pad_inches=-0.01)
