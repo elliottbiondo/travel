@@ -21,30 +21,26 @@ Have been
 10. Bryce Canyon
 
 2019
-11. Biscayne
-12. Everglades
-13. Dry Tortugas
+11. Indiana Dunes
 
-14. Glacier
-15. Grand Teton
-16. Yellowstone
+12. Biscayne
+13. Everglades
+14. Dry Tortugas
 
-17. Mount Rainier
+15. Glacier
+16. Grand Teton
+17. Yellowstone
 
-2021
-18. Great Sand Dunes
-
-------------------------------
-Have been, but might not count
-------------------------------
-
-2019
-19. Indiana Dunes
+18. Mount Rainier
 
 2020
-20. New River Gorge
-21. Hot Springs
-22. Gateway Arch
+19. New River Gorge
+20. Hot Springs
+21. Gateway Arch
+
+2021
+22. Great Sand Dunes
+23. Olympic
 
 -------------
 Have Not Been
@@ -53,7 +49,6 @@ Have Not Been
 Mammoth Cave
 
 North Cascades
-Olympic
 Crater Lake
 
 Great Basin 
