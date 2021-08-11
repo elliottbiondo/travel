@@ -1,3 +1,7 @@
+import ssl
+ssl._create_default_https_context = ssl._create_unverified_context
+
+
 import matplotlib.pyplot as plt
 import cartopy.crs as ccrs                   # import projections
 import cartopy.feature as cf                 # import features
@@ -27,7 +31,6 @@ ax = plt.subplot(projection = ccrs.PlateCarree())
 ax.add_feature(cf.NaturalEarthFeature('physical', 'land', '50m', edgecolor='none', facecolor='#e0e0e0'))
 ax.add_feature(cf.NaturalEarthFeature('physical', 'lakes', '50m', edgecolor='none', facecolor='white'))
 ax.set_extent([lon_min, lon_max, lat_min, lat_max], crs=ccrs.PlateCarree())
-
 
 ax.scatter(lon, lat, transform=ccrs.PlateCarree(), s=1, color='black',  zorder=2, lw=0)
 
