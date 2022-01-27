@@ -24,7 +24,7 @@ with open("hack.txt") as f:
 
 lon_min = -140
 lon_max = 140
-lat_min = 17
+lat_min = 14
 lat_max = 62
 
 ax = plt.subplot(projection = ccrs.PlateCarree())
