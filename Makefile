@@ -1,3 +1,3 @@
 all:
-	python make_thumbs.py
-	python make.py
+	python3 make_thumbs.py
+	python3 make.py
