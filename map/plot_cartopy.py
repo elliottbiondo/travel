@@ -22,10 +22,10 @@ with open("hack.txt") as f:
             lat.append(float(line.split()[1].strip(",")))
             lon.append(float(line.split()[2]))
 
-lon_min = -140
-lon_max = 140
-lat_min = 14
-lat_max = 62
+lon_min = -180
+lon_max = 180
+lat_min = -90
+lat_max = 90
 
 ax = plt.subplot(projection = ccrs.PlateCarree())
 ax.add_feature(cf.NaturalEarthFeature('physical', 'land', '50m', edgecolor='none', facecolor='#e0e0e0'))
