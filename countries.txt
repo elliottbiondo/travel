@@ -12,10 +12,6 @@ Visited
 9. Belgium
 10. The Netherlands
 11. South Korea
-
-Upcoming
---------
-
 12. Czech Republic
 13. Austria
 14. Switzerland
@@ -33,5 +29,3 @@ Priorities
 27. Norway
 28./29. Namibia/Botswana/South Africa
 30. Mongolia
-
-
