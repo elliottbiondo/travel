@@ -15,17 +15,18 @@ Visited
 12. Czech Republic
 13. Austria
 14. Switzerland
+15. Costa Rica
 
 Priorities
 ----------
 
-15. Tanzania
-16./17. Chile/Argentina
-18./19./20. Vietnam/Thailand/Cambodia
-21. Japan
-22./23. Iceland/Greenland
-24./25. Kenya/Ethiopia
-26. Indonesia
-27. Norway
-28./29. Namibia/Botswana/South Africa
-30. Mongolia
+16. Tanzania
+17./18. Chile/Argentina
+19./20./21. Vietnam/Thailand/Cambodia
+22. Japan
+23./24. Iceland/Greenland
+25./26. Kenya/Ethiopia
+27. Indonesia
+28. Norway
+29./30. Namibia/Botswana/South Africa
+31. Mongolia

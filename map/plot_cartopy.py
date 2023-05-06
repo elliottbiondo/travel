@@ -32,6 +32,6 @@ ax.add_feature(cf.NaturalEarthFeature('physical', 'land', '50m', edgecolor='none
 ax.add_feature(cf.NaturalEarthFeature('physical', 'lakes', '50m', edgecolor='none', facecolor='white'))
 ax.set_extent([lon_min, lon_max, lat_min, lat_max], crs=ccrs.PlateCarree())
 
-ax.scatter(lon, lat, transform=ccrs.PlateCarree(), s=1, color='black',  zorder=2, lw=0)
+ax.scatter(lon, lat, transform=ccrs.PlateCarree(), s=1.5, color='black',  zorder=2, lw=0)
 
 plt.savefig("map.png", bbox_inches="tight", dpi=1000, pad_inches=-0.01)
