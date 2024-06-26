@@ -17,5 +17,5 @@ for d in reversed(sorted(dirs)):
     thumb_name = 'thumbs/{}_{}'.format(d, thumb)
     os.system("cp {} {}".format(name, thumb_name))
 
-os.system("mogrify -scale 30% thumbs/*")
+os.system("magick mogrify -scale 30% thumbs/*")
 
